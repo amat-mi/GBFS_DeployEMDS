@@ -3,7 +3,7 @@
   "ttl": 86400,
   "version": "3.0",
   "data": {
-    "system_id": "bikesharing_intersections",
+    "system_id": "milano_bikesharing_intersections",
     "languages": [
       "it"
     ],
