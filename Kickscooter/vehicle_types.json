@@ -1,0 +1,25 @@
+{
+  "last_updated": "2026-06-18T12:00:00+02:00",
+  "ttl": 86400,
+  "version": "3.0",
+  "data": {
+    "vehicle_types": [
+      {
+        "vehicle_type_id": "kickscooter",
+        "form_factor": "scooter_standing",
+        "propulsion_type": "electric",
+        "max_range_meters": 35000.0,
+        "name": [
+          {
+            "text": "Monopattino elettrico",
+            "language": "it"
+          }
+        ],
+        "rider_capacity": 1,
+        "wheel_count": 2,
+        "max_permitted_speed": 20,
+        "return_constraint": "any_station"
+      }
+    ]
+  }
+}
