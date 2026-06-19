@@ -1,0 +1,39 @@
+{
+  "last_updated": "2026-06-18T12:00:00+02:00",
+  "ttl": 86400,
+  "version": "3.0",
+  "data": {
+    "vehicle_types": [
+      {
+        "vehicle_type_id": "bike",
+        "form_factor": "bicycle",
+        "propulsion_type": "human",
+        "name": [
+          {
+            "text": "Bicicletta",
+            "language": "it"
+          }
+        ],
+        "rider_capacity": 1,
+        "wheel_count": 2,
+        "return_constraint": "any_station"
+      },
+      {
+        "vehicle_type_id": "ebike",
+        "form_factor": "bicycle",
+        "propulsion_type": "electric_assist",
+        "max_range_meters": 60000.0,
+        "name": [
+          {
+            "text": "Bicicletta elettrica",
+            "language": "it"
+          }
+        ],
+        "rider_capacity": 1,
+        "wheel_count": 2,
+        "max_permitted_speed": 25,
+        "return_constraint": "any_station"
+      }
+    ]
+  }
+}

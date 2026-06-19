@@ -1,0 +1,35 @@
+{
+  "last_updated": "2026-06-18T12:00:00+02:00",
+  "ttl": 86400,
+  "version": "3.0",
+  "data": {
+    "system_id": "Bikemi_20XY",
+    "languages": [
+      "it"
+    ],
+    "name": [
+      {
+        "text": "Bikemi Milano 20XY",
+        "language": "it"
+      }
+    ],
+    "short_name": [
+      {
+        "text": "Bikemi_20XY",
+        "language": "it"
+      }
+    ],
+    "operator": [
+      {
+        "text": "Bikemi",
+        "language": "it"
+      }
+    ],
+    "opening_hours": "24/7",
+    "start_date": "2026-01-01",
+    "url": "https://bikemi.com/",
+    "feed_contact_email": "valerio.paruscio_consulente@amat-mi.it",
+    "timezone": "Europe/Rome",
+    "license_id": "CC-BY-4.0"
+  }
+}
