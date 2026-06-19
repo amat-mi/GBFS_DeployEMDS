@@ -17,7 +17,7 @@
         ],
         "rider_capacity": 2,
         "wheel_count": 2,
-        "max_permitted_speed": 45,
+        "max_permitted_speed": 30,
         "return_constraint": "any_station"
       }
     ]
