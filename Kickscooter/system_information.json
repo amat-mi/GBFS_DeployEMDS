@@ -3,7 +3,7 @@
   "ttl": 86400,
   "version": "3.0",
   "data": {
-    "system_id": "milano_2050_kickscooter_intersections",
+    "system_id": "milano_kickscooter_intersections",
     "languages": [
       "it"
     ],
