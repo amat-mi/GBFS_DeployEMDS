@@ -6,19 +6,19 @@
     "feeds": [
       {
         "name": "system_information",
-        "url": "https://example.org/milano_2050_gbfs/bikesharing_historic_operator/system_information.json"
+        "url": "https://amat-mi.github.io/GBFS_DeployEMDS/Bikemi/system_information.json"
       },
       {
         "name": "vehicle_types",
-        "url": "https://example.org/milano_2050_gbfs/bikesharing_historic_operator/vehicle_types.json"
+        "url": "https://amat-mi.github.io/GBFS_DeployEMDS/Bikemi/vehicle_types.json"
       },
       {
         "name": "station_information",
-        "url": "https://example.org/milano_2050_gbfs/bikesharing_historic_operator/station_information.json"
+        "url": "https://amat-mi.github.io/GBFS_DeployEMDS/Bikemi/station_information.json"
       },
       {
         "name": "station_status",
-        "url": "https://example.org/milano_2050_gbfs/bikesharing_historic_operator/station_status.json"
+        "url": "https://amat-mi.github.io/GBFS_DeployEMDS/Bikemi/station_status.json"
       }
     ]
   }
