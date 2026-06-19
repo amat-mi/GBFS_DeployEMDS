@@ -1,0 +1,45 @@
+{
+  "last_updated": "2026-06-18T12:00:00+02:00",
+  "ttl": 86400,
+  "version": "3.0",
+  "data": {
+    "datasets": [
+      {
+        "system_id": "milano_bikesharing_intersections",
+        "versions": [
+          {
+            "version": "3.0",
+            "url": "https://amat-mi.github.io/GBFS_DeployEMDS/Bikesharing/gbfs.json"
+          }
+        ]
+      },
+      {
+        "system_id": "Bikemi",
+        "versions": [
+          {
+            "version": "3.0",
+            "url": "https://amat-mi.github.io/GBFS_DeployEMDS/Bikemi/gbfs.json"
+          }
+        ]
+      },
+      {
+        "system_id": "milano_kickscooter_intersections",
+        "versions": [
+          {
+            "version": "3.0",
+            "url": "https://amat-mi.github.io/GBFS_DeployEMDS/Kickscooter/gbfs.json"
+          }
+        ]
+      },
+      {
+        "system_id": "milano_moped_intersections",
+        "versions": [
+          {
+            "version": "3.0",
+            "url": "https://amat-mi.github.io/GBFS_DeployEMDS/Moped/gbfs.json"
+          }
+        ]
+      }
+    ]
+  }
+}
